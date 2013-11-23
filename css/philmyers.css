@@ -1,5 +1,5 @@
 body {
-      background: url("images/grand_canyon.jpg");
+      background: url("/images/grand_canyon.jpg");
       background-size: cover;
       background-position: center;
 }
