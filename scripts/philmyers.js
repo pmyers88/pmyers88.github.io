@@ -4,7 +4,7 @@ $(document).ready(function() {
 
     list.hide();
 
-    $("#freebie-container #dropdown").hover(
+    $("#dropdown").hover(
         function () {
             list.stop(false, true).slideDown();
         },
