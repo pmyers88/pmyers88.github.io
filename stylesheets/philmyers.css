@@ -48,13 +48,9 @@ body {
     color: #a2a8ad;
     text-decoration: none;
     display: block;
-}
-#dropdown li:first-child {
-    padding-top: 6px;
-}
-#dropdown li:last-child {
-    border: none;
-    padding-bottom: 8px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    
 }
 #dropdown li a:hover {
     color: white;
