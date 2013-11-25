@@ -17,16 +17,10 @@ body {
 	height: 35%;
 }
 #dropdown {
-    font-family: helvetica, sans-serif;
-    font-size: 13px;
-    text-shadow: 0px 1px 1px #1c1c1c;
-    position: relative;
-    width: 130px;
+    font-size: 28px;
+    margin: auto;
 }
 #dropdown #projects {
-    width: 118px;
-    height: 28px;
-    line-height: 30px;
     padding-left: 10px;
     border-radius:          2px;
     box-shadow:         0px 2px 2px 0px #191d20;
