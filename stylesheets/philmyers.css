@@ -7,15 +7,21 @@ body {
     background-size: cover;
     overflow: hidden;
 }
+#content {
+	height: 100%;
+	color: white;
+	text-align: center;
+}
+#spacer {
+	height: 35%;
+}
 #dropdown {
     font-family: helvetica, sans-serif;
     font-size: 13px;
-    color: #a2a8ad;
     text-shadow: 0px 1px 1px #1c1c1c;
     position: relative;
     width: 130px;
 }
-
 #dropdown #projects {
     width: 118px;
     height: 28px;
@@ -28,21 +34,10 @@ body {
     z-index: 1;
     position: relative;
 }
-
-#dropdown #projects {
-    width: 10px;
-    height: 12px;
-    float: right;
-    top: 9px;
-    right: 9px;
-    position:relative;
-}
-
 #dropdown #projects:hover {
     cursor: pointer;
     color: white;
 }
-
 #dropdown ul {
     list-style: none;
     background: #2e3135;
@@ -54,11 +49,9 @@ body {
     box-shadow:         0px 0px 2px 1px #1b1f23;
     top: -2px;
 }
-
 #dropdown li {
     border-bottom: 1px solid #3a3c3f;
 }
-
 #dropdown li a {
     color: #a2a8ad;
     text-decoration: none;
@@ -67,16 +60,13 @@ body {
     padding-bottom: 9px;
     
 }
-
 #dropdown li:first-child {
     padding-top: 6px;
 }
-
 #dropdown li:last-child {
     border: none;
     padding-bottom: 8px;
 }
-
 #dropdown li a:hover {
     color: white;
 }
