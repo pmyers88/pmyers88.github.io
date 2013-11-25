@@ -19,6 +19,8 @@ body {
 #dropdown {
     font-size: 28px;
     margin: auto;
+    width: 220px;
+    background-color: black;
 }
 #dropdown #projects {
     padding-left: 10px;
@@ -36,7 +38,7 @@ body {
 #dropdown ul {
     list-style: none;
     background: #2e3135;
-    width: 110px;
+    width: 220px;
     position:relative;
     border-radius:          2px;
     padding-left: 10px;
