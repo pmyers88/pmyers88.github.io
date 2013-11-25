@@ -20,7 +20,7 @@ body {
     font-size: 28px;
     margin: auto;
     width: 220px;
-    background-color: black;
+    background-image: linear-gradient(bottom, rgb(43,46,50) 0%, rgb(49,52,57) 100%);
 }
 #dropdown #projects {
     padding-left: 10px;
