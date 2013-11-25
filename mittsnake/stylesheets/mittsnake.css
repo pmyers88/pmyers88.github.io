@@ -7,7 +7,7 @@ html {
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	background: #4E5869;
-	background-image:url(images/bg.gif);
+	background-image:url(../images/bg.gif);
 	margin: 0;
 	padding: 0;
 	color: #090909;
