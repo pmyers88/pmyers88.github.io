@@ -15,7 +15,7 @@ body {
 #spacer {
 	height: 35%;
 }
-#dropdown {
+/*#dropdown {
     font-family: helvetica, sans-serif;
     font-size: 13px;
     text-shadow: 0px 1px 1px #1c1c1c;
@@ -69,4 +69,4 @@ body {
 }
 #dropdown li a:hover {
     color: white;
-}
+}*/
