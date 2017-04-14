@@ -12,17 +12,17 @@ body {
 /* CSSTerm.com Flyout CSS menu */
 
 #flyout_menu {
-    width: 150px; 
+    width: 150px;
 }
 
 #flyout_menu ul, li {
   list-style: none;
-  padding: 5px; 
+  padding: 5px;
   text-align: center;
 }
 
 #flyout_menu ul li.hover,
-#flyout_menu ul li:hover { 
+#flyout_menu ul li:hover {
     position: relative;
 }
 
@@ -34,18 +34,18 @@ body {
     z-index: 598;
 }
 
-#flyout_menu ul li:hover > ul { 
+#flyout_menu ul li:hover > ul {
     padding: 0px;
-    visibility: visible; 
+    visibility: visible;
 }
 
-#flyout_menu ul ul { 
-    top: 0; 
-    left: 100%; 
+#flyout_menu ul ul {
+    top: 0;
+    left: 100%;
 }
 
-#flyout_menu li { 
-    background: rgb(0, 0, 0); 
+#flyout_menu li {
+    background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, .5);
 }
 
@@ -53,7 +53,7 @@ body {
     color: #FFF;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 #flyout_menu img {
@@ -62,13 +62,13 @@ body {
     width: 24px;
 }
 
-#flyout_menu li:hover, #flyout_menu li.active { 
-    background: rgb(40, 40, 40); 
+#flyout_menu li:hover, #flyout_menu li.active {
+    background: rgb(40, 40, 40);
     background: rgba(40, 40, 40, 0.5);
 }
 
-#flyout_menu ul ul li { 
+#flyout_menu ul ul li {
     margin: 0px;
-    width: 200px;
+    width: 250px;
     text-align: left;
 }
